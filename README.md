@@ -1,13 +1,12 @@
 <h1 align="center">Hello 👋, I'm Canberk Yılmaz</h1>
 <h3 align="center">A Software Developer from 🇹🇷</h3>
 <hr>
+<p align="center">
+- 📘 Studying at <b>Patika Reengen FullStack Bootcamp</b></p>
 
-- 📘 Studying at **Patika Reengen FullStack Bootcamp**
+<p align="center">- 📕 Learning <b>Vue.js, Node.js, Javascript, React etc.</b></p>
 
-- 📕 Learning **Vue.js, Node.js, Javascript, React etc.**
-
-- 📨 Reach me **cyilmaz089@gmail.com**
-
+<p align="center">- 📨 Reach me <a href="mailto:cyilmaz089@gmail.com" target="blank">cyilmaz089@gmail.com</a></p>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
